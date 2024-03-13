@@ -15,7 +15,8 @@ My CV in [pdf](https://github.com/bharatperry/portfolio/blob/1aeb57209dbac5d8661
     - [Developing an Automobile Price Prediction Model](https://github.com/bharatperry/portfolio#Developing-an-Automobile-Price-Prediction-Model)
     - [Tech Store Sales Analysis](https://github.com/bharatperry/Data-Analysis-Portfolio#tech-store-sales-analysis)  
   - SQL
-    - [Covid 19 Data Exploration](https://github.com/bharatperry/Data-Analysis-Portfolio#covid-19-data-exploration)
+    - [Covid 19 Data Exploration](https://github.com/bharatperry/portfolio#covid-19-data-exploration)
+    - [Intercollegiate Athlethics Database](https://github.com/bharatperry/portfolio#Intercollegiate-Athlethics-Database)
  
   - R
     - [Legendary Pokémon Analysis (Study Project)](https://github.com/tiannaparris/Data-Analysis-Portfolio#legendary-pok%C3%A9mon-analysis)
@@ -76,6 +77,7 @@ Data Methodology:
   + Created an [ERD](https://github.com/bharatperry/sql-Intercollegiate-Athletic-Database/blob/7cc3b4a2eabc422e59b4a9686b1996d0e03017e5/1-Background%20on%20Intercollegiate%20Atheltic%20Database.pdf) for a database to support the scheduling and operations of intercollegiate athletic events.
   + Utilized SQL to [create tables](https://github.com/bharatperry/sql-Intercollegiate-Athletic-Database/blob/7cc3b4a2eabc422e59b4a9686b1996d0e03017e5/3-CreateTables.sql) and to define column data types, primary keys, foreign keys, and additional constraints.
   + Queried [ad hoc requests](https://github.com/bharatperry/sql-Intercollegiate-Athletic-Database/blob/7cc3b4a2eabc422e59b4a9686b1996d0e03017e5/5-JoinStatementQueries.sql) involving multiple joins between different tables and specific clauses to filter the data.
+[**Other Query**](https://github.com/bharatperry/sql-Intercollegiate-Athletic-Database/blob/7cc3b4a2eabc422e59b4a9686b1996d0e03017e5/4-SelectStatementQueries.sql) for select statements
 
 
 
