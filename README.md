@@ -10,12 +10,12 @@ My CV in [pdf](https://github.com/bharatperry/portfolio/blob/1aeb57209dbac5d8661
 
 ## Table of Contents
 - [About](https://github.com/bharatperry/portfolio/blob/main/README.md#about)
-- [Portfolio Projects](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
+- [Portfolio Projects](https://github.com/bharatperry/portfolio/blob/main/README.md#portfolio-projects)
   - Python
-    - [Analyzing the Factors Contributing to the Success of a Movie](https://github.com/tiannaparris/Data-Analysis-Portfolio#analyzing-the-factors-contributing-to-the-success-of-a-movie)
-    - [Tech Store Sales Analysis](https://github.com/tiannaparris/Data-Analysis-Portfolio#tech-store-sales-analysis)  
+    - [Developing an Automobile Price Prediction Model](https://github.com/bharatperry/portfolio#Developing an Automobile Price Prediction Model)
+    - [Tech Store Sales Analysis](https://github.com/bharatperry/Data-Analysis-Portfolio#tech-store-sales-analysis)  
   - SQL
-    - [Covid 19 Data Exploration](https://github.com/tiannaparris/Data-Analysis-Portfolio#covid-19-data-exploration)
+    - [Covid 19 Data Exploration](https://github.com/bharatperry/Data-Analysis-Portfolio#covid-19-data-exploration)
     - [Nashville Housing Data Cleaning](https://github.com/tiannaparris/Data-Analysis-Portfolio#nashville-housing-data-cleaning)
   - R
     - [Legendary Pokémon Analysis (Study Project)](https://github.com/tiannaparris/Data-Analysis-Portfolio#legendary-pok%C3%A9mon-analysis)
@@ -31,18 +31,20 @@ My CV in [pdf](https://github.com/bharatperry/portfolio/blob/1aeb57209dbac5d8661
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
-### Analyzing the Factors Contributing to the Success of a Movie
-**Code:** [`Analyzing the Factors Contributing to the Success of a Movie.ipynb`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Analyzing%20the%20Factors%20Contributing%20to%20the%20Success%20of%20a%20Movie.ipynb)
+### Developing an Automobile Price Prediction Model
 
-**Goal:** To determine what factors contribute the most to a movie's success.
+Utilizing a public automobile dataset for machine learning, the goal is to explore and formulate models that can best predict a fair but accurate price for automobiles based on features or characteristics they hold. This project has been broken down into multiple notebooks.
 
-**Description:** The project focused on analyzing a dataset of movies released between 1980 and 2022. The dataset included movie titles, ratings, genres, release dates, budgets, gross earnings, and other relevant information. The project involved loading the data, cleaning and preprocessing it, performing exploratory data analysis (EDA), analyzing the correlation between budget and gross earnings, and implemented Pearson’s correlation statistical analysis.
+Data Methodology:
+
+  + [Data Wrangling: Automobile Data Set](https://github.com/bharatperry/portfolio/blob/cf7cc36df6173861681dd40426a6729d3caed8d7/1-Data-Wrangling.ipynb)
+  + [Exploratory Analysis on Features that Impact Automobile Prices](https://github.com/bharatperry/portfolio/blob/cf7cc36df6173861681dd40426a6729d3caed8d7/2-Exploratory-data-analysis.ipynb)
+  + [Developing Models to Predict Automobile Prices](https://github.com/bharatperry/portfolio/blob/cf7cc36df6173861681dd40426a6729d3caed8d7/3-model-development.ipynb)
+  + [Automobile Price Prediction Model: Evaluation and Refinement](https://github.com/bharatperry/portfolio/blob/cf7cc36df6173861681dd40426a6729d3caed8d7/4-model-evaluation-and-refinement.ipynb)
 
 **Skills:** data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization.
 
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
-
-**Results:** Using Python functions the analysis revealed that votes and budget have the highest correlation with gross earnings, while the company has no significant correlation.
 
 ### Tech Store Sales Analysis
 
