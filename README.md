@@ -12,11 +12,11 @@ My CV in [pdf](https://github.com/bharatperry/portfolio/blob/1aeb57209dbac5d8661
 - [About](https://github.com/bharatperry/portfolio/blob/main/README.md#about)
 - [Portfolio Projects](https://github.com/bharatperry/portfolio/blob/main/README.md#portfolio-projects)
   - Python
-    - [Developing an Automobile Price Prediction Model](https://github.com/bharatperry/portfolio#Developing an Automobile Price Prediction Model)
+    - [Developing an Automobile Price Prediction Model](https://github.com/bharatperry/portfolio#Developing-an-Automobile-Price-Prediction-Model)
     - [Tech Store Sales Analysis](https://github.com/bharatperry/Data-Analysis-Portfolio#tech-store-sales-analysis)  
   - SQL
     - [Covid 19 Data Exploration](https://github.com/bharatperry/Data-Analysis-Portfolio#covid-19-data-exploration)
-    - [Nashville Housing Data Cleaning](https://github.com/tiannaparris/Data-Analysis-Portfolio#nashville-housing-data-cleaning)
+ 
   - R
     - [Legendary Pokémon Analysis (Study Project)](https://github.com/tiannaparris/Data-Analysis-Portfolio#legendary-pok%C3%A9mon-analysis)
   - Excel / Google Sheets
@@ -33,7 +33,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 ### Developing an Automobile Price Prediction Model
 
-Utilizing a public automobile dataset for machine learning, the goal is to explore and formulate models that can best predict a fair but accurate price for automobiles based on features or characteristics they hold. This project has been broken down into multiple notebooks.
+This project aims to develop machine learning models using a publicly available automobile dataset to predict accurate prices for cars based on their unique features. The project is divided into several notebooks to explore and create effective models for predicting fair prices of automobiles.
 
 Data Methodology:
 
@@ -62,25 +62,22 @@ Data Methodology:
 
 
 
-### Nashville Housing Data Cleaning
-**Code:** [`Data Cleaning Project Queries: Nashville Housing.sql`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Data%20Cleaning%20Project%20Queries:%20Nashville%20Housing.sql)
-
-**Description:** The dataset contains a list of houses that have been sold in Nashville between 2013 and 2019. This project includes the following steps: data loading, data cleaning and preprocessing.
-
-
-**Skills:** DML(Data Manipulation Language), DQL (Data Query Language), DDL (Data Definition Language).
-
-**Technology:** SQL Server
-
 
 ### Covid 19 Data Exploration
-**Code:** [`COVID Portfolio Project.sql`](https://github.com/tiannaparris/PortfolioProjects/blob/main/COVID%20Portfolio%20Project.sql)
+**Code:** [`COVID Portfolio Project.sql`](https://github.com/bharatperry/SQL_SKILL_DATA-ANALYSIS/blob/ebb29b492fea5ddf52f4cd30108d74db1fcebf34/COVID%20Portfolio%20Project.sql)
 
 **Description:** The dataset contains records of Covid-19 cases, deaths and vaccine records by country in 2020-2021. This project includes the following steps: data loading, data cleaning and preprocessing and EDA (exploratory data analysis).
 
 **Skills:** Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
 
 **Technology:** SQL Server
+
+### Intercollegiate Athlethics Database
+  + Created an [ERD](https://github.com/bharatperry/sql-Intercollegiate-Athletic-Database/blob/7cc3b4a2eabc422e59b4a9686b1996d0e03017e5/1-Background%20on%20Intercollegiate%20Atheltic%20Database.pdf) for a database to support the scheduling and operations of intercollegiate athletic events.
+  + Utilized SQL to [create tables](https://github.com/bharatperry/sql-Intercollegiate-Athletic-Database/blob/7cc3b4a2eabc422e59b4a9686b1996d0e03017e5/3-CreateTables.sql) and to define column data types, primary keys, foreign keys, and additional constraints.
+  + Queried [ad hoc requests](https://github.com/bharatperry/sql-Intercollegiate-Athletic-Database/blob/7cc3b4a2eabc422e59b4a9686b1996d0e03017e5/5-JoinStatementQueries.sql) involving multiple joins between different tables and specific clauses to filter the data.
+
+
 
 
 
