@@ -22,6 +22,7 @@ My CV in [pdf](https://github.com/bharatperry/portfolio/blob/1aeb57209dbac5d8661
     - [Legendary Pokémon Analysis (Study Project)](https://github.com/tiannaparris/Data-Analysis-Portfolio#legendary-pok%C3%A9mon-analysis)
   - Excel / Google Sheets
     - [Adidas US sales data analysis](https://github.com/bharatperry/portfolio#Adidas-US-sales-data-analysis)
+  - [Data Visualization with Python](https://github.com/bharatperry/portfolio#Data-Visualization-with-Python)
   - Tableau---> [go to Tableau..](https://public.tableau.com/app/profile/tianna.parris)
   - Power BI
   
@@ -35,9 +36,9 @@ In this section I will list data analytics projects briefly describing the techn
 
 ### Developing an Automobile Price Prediction Model
 
-This project aims to develop machine learning models using a publicly available automobile dataset to predict accurate prices for cars based on their unique features. The project is divided into several notebooks to explore and create effective models for predicting fair prices of automobiles.
+**Description:** This project aims to develop machine learning models using a publicly available automobile dataset to predict accurate prices for cars based on their unique features. The project is divided into several notebooks to explore and create effective models for predicting fair prices of automobiles.
 
-Data Methodology:
+**Data Methodology:**
 
   + [Data Wrangling: Automobile Data Set](https://github.com/bharatperry/portfolio/blob/cf7cc36df6173861681dd40426a6729d3caed8d7/1-Data-Wrangling.ipynb)
   + [Exploratory Analysis on Features that Impact Automobile Prices](https://github.com/bharatperry/portfolio/blob/cf7cc36df6173861681dd40426a6729d3caed8d7/2-Exploratory-data-analysis.ipynb)
@@ -62,9 +63,6 @@ Data Methodology:
 
 **Results:** Python functions that calculated and visually presented the sales data by month, city, and the most commonly sold items. Additionally, the reasons for the high frequency of these items being sold were analyzed and provided as insights.
 
-
-
-
 ### Covid 19 Data Exploration
 **Code:** [`COVID Portfolio Project.sql`](https://github.com/bharatperry/SQL_SKILL_DATA-ANALYSIS/blob/ebb29b492fea5ddf52f4cd30108d74db1fcebf34/COVID%20Portfolio%20Project.sql)
 
@@ -79,10 +77,6 @@ Data Methodology:
   + Utilized SQL to [create tables](https://github.com/bharatperry/sql-Intercollegiate-Athletic-Database/blob/7cc3b4a2eabc422e59b4a9686b1996d0e03017e5/3-CreateTables.sql) and to define column data types, primary keys, foreign keys, and additional constraints.
   + Queried [ad hoc requests](https://github.com/bharatperry/sql-Intercollegiate-Athletic-Database/blob/7cc3b4a2eabc422e59b4a9686b1996d0e03017e5/5-JoinStatementQueries.sql) involving multiple joins between different tables and specific clauses to filter the data.
 [**Other Query**](https://github.com/bharatperry/sql-Intercollegiate-Athletic-Database/blob/7cc3b4a2eabc422e59b4a9686b1996d0e03017e5/4-SelectStatementQueries.sql) for select statements
-
-
-
-
 
 ### Adidas US sales data analysis
 **Description:** The objective of this project is to utilize Excel's functionality to analyze data concerning Adidas's product sales in the United States. The dataset comprises 9652 rows and 14 columns, encompassing information for the fiscal years 2020 and 2021. The aim is to visualize the data, generate various types of reports, and develop an interactive dashboard.
@@ -99,29 +93,26 @@ Data Methodology:
 
 **Results:** An analysis of financial data on the sale of Adidas products in the USA for 2020 and 2021 was performed. Reports and dashboard were created.
 
+# Data Visualization with Python 
 
+ **Description:** Analyzing an international immigration dataset with annual data, the objective is to visualize migration patterns to Canada through various graphing techniques in Python, ultimately creating an interactive dashboard.
+   
+  + [Visualizing Immigration Trends to Canada with Regression Plots](https://github.com/bharatperry/data_visualization/blob/22e04fa7814c6bc372f30be727ac88b04164d90e/4-Regression-Plots.ipynb)
+  + [Visualizing Immigration Trends to Canada with Pie Charts, Box Plots, Scatter Plots, & Bubble Plots](https://github.com/bharatperry/data_visualization/blob/22e04fa7814c6bc372f30be727ac88b04164d90e/3-Pie-Charts-Box-Plots-Scatter-Plots.ipynb)
+  + [Visualizing Immigration Trends to Canada with Area Plots, Hiostograms, & Bar Charts](https://github.com/bharatperry/data_visualization/blob/22e04fa7814c6bc372f30be727ac88b04164d90e/2-Area-Plots-Histograms-and-Bar-Charts.ipynb)
+  + [Filtering & Visualizing Immigration Trends to Canada With Line Plots](https://github.com/bharatperry/data_visualization/blob/22e04fa7814c6bc372f30be727ac88b04164d90e/1-Filtering-LinePlotting.ipynb)
 
 
 
 ## Education
-University of Colorado, Boulder: 
-Master of Science - MS, Data Science,
-Dec 2022 - Dec 2024
+Master of Science, Business Analytics                      Sep 2022 - Sep 2023
+Queen’s University Belfast
+Merit
 
-The University of the West Indies, Mona:
-Bachelor's degree, Biochemistry and Molecular Biology,
-2019 - 2022
-
-Pre University School:
-Associate's degree, Science and Mathematics,
-2017 - 2019
-
-## Certificates
-The best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. Here's a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
-- [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/LRQ498UKBBSJ?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof) (Sep 2022) (Coursera - Google)
-- [Tableau](https://www.coursera.org/account/accomplishments/verify/62LME4DV8CUV) (Oct 2022) (Coursera - University of California, Davis)
-- [Python for Data Science](https://coursera.org/share/a16ecd3de61dd794199c452586cba90c) (Feb 2023) (Coursera - University of Colorado Boulder)
+Bachelor of Engineering, Electrical and Electronics         Aug 2016 - Apr 2020
+RMK Engineering College 
+First Class Honors
 
 ## Contacts
-- LinkedIn: [@tiannaparris](https://www.linkedin.com/in/tianna-parris-9b6823176/)
-- Email: parristianna@yahoo.com
+- LinkedIn: [@Bharat](https://www.linkedin.com/in/bharatgh/)
+- Email: bharatgh10@gmail.com
