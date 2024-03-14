@@ -86,11 +86,17 @@ Data Methodology:
 
 ### Adidas US sales data analysis
 **Description:** The objective of this project is to utilize Excel's functionality to analyze data concerning Adidas's product sales in the United States. The dataset comprises 9652 rows and 14 columns, encompassing information for the fiscal years 2020 and 2021. The aim is to visualize the data, generate various types of reports, and develop an interactive dashboard.
+
 **Reports and conclusions:** [Sheet](https://github.com/bharatperry/Excel_skills/blob/de97f79d1f33feac20c375aa51dd6b6aca04f1a1/Adidas%20Sales%20Analysis%20with%20reports.xlsx) 
+
 **Dashboard:** [Sheet](https://github.com/bharatperry/Excel_skills/blob/de97f79d1f33feac20c375aa51dd6b6aca04f1a1/Dashboard.xlsx)
+
 **Original dataset:** [Sheet](https://github.com/bharatperry/Excel_skills/blob/de97f79d1f33feac20c375aa51dd6b6aca04f1a1/Original-dataset.xlsx)
-**Skills:** analytical thinking, data cleaning, data analysis, data vizualization.<br>
+
+**Skills:** analytical thinking, data cleaning, data analysis, data vizualization.
+
 **Hard skills:** Excel, Pivot Tables, Formulas, Functions, Charts, Dashboards, Slices, Pivot Charts.<br>
+
 **Results:** An analysis of financial data on the sale of Adidas products in the USA for 2020 and 2021 was performed. Reports and dashboard were created.
 
 
