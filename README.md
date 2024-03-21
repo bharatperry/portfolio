@@ -6,7 +6,7 @@ My academic journey, bolstered by projects in marketing and HR analytics, has fo
 
 Beyond academia, I am committed to continuous learning and exploration of new data analysis techniques and tools, driven by the challenge of solving complex problems in the dynamic landscape of data and business analytics.
 
-My CV in [pdf](https://github.com/bharatperry/portfolio/blob/1aeb57209dbac5d8661ea95f1cbdad44fd4627a1/bharat_ba.pdf)
+My CV in [pdf](https://github.com/bharatperry/portfolio/blob/abfcbc9f0b1efb82e75ed9431b48a491de7c0e30/bharat_ba.pdf)
 
 ## Table of Contents
 - [About](https://github.com/bharatperry/portfolio/blob/main/README.md#about)
