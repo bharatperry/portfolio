@@ -13,17 +13,17 @@ My CV in [pdf](https://github.com/bharatperry/portfolio/blob/1aeb57209dbac5d8661
 - [Portfolio Projects](https://github.com/bharatperry/portfolio/blob/main/README.md#portfolio-projects)
   - Python
     - [Developing an Automobile Price Prediction Model](https://github.com/bharatperry/portfolio#Developing-an-Automobile-Price-Prediction-Model)
-    - [Tech Store Sales Analysis](https://github.com/bharatperry/Data-Analysis-Portfolio#tech-store-sales-analysis)  
+  
   - SQL
     - [Covid 19 Data Exploration](https://github.com/bharatperry/portfolio#covid-19-data-exploration)
     - [Intercollegiate Athlethics Database](https://github.com/bharatperry/portfolio#Intercollegiate-Athlethics-Database)
  
   - R
-    - [Legendary Pokémon Analysis (Study Project)](https://github.com/tiannaparris/Data-Analysis-Portfolio#legendary-pok%C3%A9mon-analysis)
+   
   - Excel / Google Sheets
     - [Adidas US sales data analysis](https://github.com/bharatperry/portfolio#Adidas-US-sales-data-analysis)
   - [Data Visualization with Python](https://github.com/bharatperry/portfolio#Data-Visualization-with-Python)
-  - Tableau---> [go to Tableau..](https://public.tableau.com/app/profile/tianna.parris)
+  - Tableau
   - Power BI
   
 
@@ -49,19 +49,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
 
-### Tech Store Sales Analysis
 
-**Goal:** To examine the sales history of the store and extract insights on its performance, as well as to identify potential improvements that can be implemented.
-
-**Code:** [`Tech Store Sales Analysis.ipynb`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Tech%20Store%20Sales%20Analysis.ipynb)
-
-**Description:** The dataset contains a list of sales records.  The records include the products for sale and order information(order id, order date, price, quantity ordered and purchase address). The project includes the following steps: data loading, data cleaning and preprocessing, EDA (exploratory data analysis), analyzing sales data and hypothesis testing.
-
-**Skills:** data cleaning, data analysis, hypothesis testing, data visualization.
-
-**Technology:** Python, Pandas, Matplotlib.
-
-**Results:** Python functions that calculated and visually presented the sales data by month, city, and the most commonly sold items. Additionally, the reasons for the high frequency of these items being sold were analyzed and provided as insights.
 
 ### Covid 19 Data Exploration
 **Code:** [`COVID Portfolio Project.sql`](https://github.com/bharatperry/SQL_SKILL_DATA-ANALYSIS/blob/ebb29b492fea5ddf52f4cd30108d74db1fcebf34/COVID%20Portfolio%20Project.sql)
