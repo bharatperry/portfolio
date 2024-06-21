@@ -2,7 +2,7 @@
 ## About
 Passionate about leveraging data for informed decision-making, I bring a robust skill set in Excel, Python, R, SQL, and data analysis tailored for the business analytics. With a proven track record in data management and ETL processes, I excel in transforming intricate datasets into actionable insights.
 
-My academic journey, bolstered by projects in marketing and HR analytics, has fortified my ability to uncover meaningful patterns and trends using SQL, Python, and advanced visualization tools such as Tableau and Power BI. 
+My academic journey has fortified my ability to uncover meaningful patterns and trends using SQL, Python, and advanced visualization tools such as Tableau and Power BI. 
 
 Beyond academia, I am committed to continuous learning and exploration of new data analysis techniques and tools, driven by the challenge of solving complex problems in the dynamic landscape of data and business analytics.
 
