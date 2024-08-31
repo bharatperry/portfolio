@@ -6,8 +6,7 @@ My academic journey has fortified my ability to uncover meaningful patterns and 
 
 Beyond academia, I am committed to continuous learning and exploration of new data analysis techniques and tools, driven by the challenge of solving complex problems in the dynamic landscape of data and business analytics.
 
-My CV in [pdf](https://github.com/bharatperry/portfolio/blob/abfcbc9f0b1efb82e75ed9431b48a491de7c0e30/bharat_ba.pdf)
-
+My CV in [pdf](https://github.com/bharatperry/portfolio/blob/64e8ce16b631dcb3d1cf464777069bd3da44b1b3/BHARAT_cv_da.pdf)
 ## Table of Contents
 - [About](https://github.com/bharatperry/portfolio/blob/main/README.md#about)
 - [Portfolio Projects](https://github.com/bharatperry/portfolio/blob/main/README.md#portfolio-projects)
