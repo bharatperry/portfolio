@@ -1,12 +1,9 @@
-# Bharat - Analyst Portfolio
+# Bharat Portfolio
 ## About
-Passionate about leveraging data for informed decision-making, I bring a robust skill set in Excel, Python, R, SQL, and data analysis tailored for the business analytics. With a proven track record in data management and ETL processes, I excel in transforming intricate datasets into actionable insights.
+Motivated Business Analyst | Product Owner with proven experience in requirement elicitation, data analysis, process automation, and Agile delivery. Skilled in translating complex business needs into actionable solutions using tools like SQL, Power BI, and JIRA. Strong in stakeholder management, API integration, and dashboard development to support data-driven decision-making.
 
-My academic journey has fortified my ability to uncover meaningful patterns and trends using SQL, Python, and advanced visualization tools such as Tableau and Power BI. 
 
-Beyond academia, I am committed to continuous learning and exploration of new data analysis techniques and tools, driven by the challenge of solving complex problems in the dynamic landscape of data and business analytics.
 
-My CV in [pdf]()
 ## Table of Contents
 - [About](https://github.com/bharatperry/portfolio/blob/main/README.md#about)
 - [Portfolio Projects](https://github.com/bharatperry/portfolio/blob/main/README.md#portfolio-projects)
